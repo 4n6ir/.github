@@ -1,4 +1,4 @@
-# Forensic Incident Response (4n6ir) 🔍
+# Forensic Incident Response 🔍
 
 ### *Turning powerful open-source innovation into seamless consumer commodities.*
 
