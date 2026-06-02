@@ -8,7 +8,7 @@ At **4n6ir**, we believe privacy-first, community-driven software shouldn't requ
 
 ## 🛠️ Our Approach
 
-We don't fork repositories or take shortcuts. We build the bridging layers that elevate open-source:
+We don't fork repositories or take shortcuts. We build the layers that elevate open-source:
 
 *   🎨 **Design-First UX:** Replacing complex CLIs and config files with intuitive, modern UIs.
 *   🛡️ **Hardened Stability:** Adding automated updates, rigorous QA, and robust security.
