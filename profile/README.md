@@ -12,7 +12,7 @@ We don't fork repositories or take shortcuts. We build the layers that elevate o
 
 *   🎨 **Design-First UX:** Replacing complex CLIs and config files with intuitive, modern UIs.
 *   🛡️ **Hardened Stability:** Adding automated updates, rigorous QA, and robust security.
-*   🤝 **Ethical Ecosystems:** Pushing bug fixes upstream and sharing sponsorship/revenue back.
+*   🤝 **Ethical Ecosystems:** Pushing bug fixes upstream and sharing back with the community.
 
 ---
 
